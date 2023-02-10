@@ -6,4 +6,4 @@ Webscraping Good Jobs √© um projeto que visa facilitar a busca por vagas de est√
 
 ## English
 
-Webscraping Good Jobs is a project made to facilitate the intern job search of tech companies. It's a Python script using a Jupyter Notebook that collect data from job plataforms about intern jobs.
+Webscraping Good Jobs is a project made to facilitate the intern job search of tech companies. It's a Python script using a Jupyter Notebook that collect data from job plataforms (Linkedin, Glassdoor, etc) about intern programs.
